@@ -30,55 +30,43 @@ A modern, responsive HR dashboard built with Next.js, React, and Tailwind CSS. F
 
 ## 📸 Screenshots
 
+
+### 🏠 **Login Page**
+![Login](./screenshots/login.png)
+*Static login for HR*
+
+
 ### 🏠 **Dashboard Homepage**
 ![Dashboard Homepage](./screenshots/dashboard.png)
 *Main dashboard showing employee cards with search and filter functionality*
 
 ### 👤 **Employee Profile**
-![Employee Profile](./screenshots/user profile.png)
+![Employee Profile](./screenshots/user_profile.png)
 *Detailed employee profile with tabs for overview, projects, and feedback*
+![Employee Profile](./screenshots/user_profile.png)
+*Detailed employee profile with tabs for projects*
+![Employee Profile](./screenshots/user_profile_2.png)
+![Employee Profile](./screenshots/user_profile_feedback.png)
+*Detailed employee profile with tabs for feedback*
+
 
 ### 📊 **Analytics Dashboard**
 ![Analytics Dashboard](./screenshots/analytics.png)
 *Comprehensive analytics with key metrics and performance charts*
+
+![Analytics Dashboard](./screenshots/top_performer_leaderboard.png)
+![Analytics Dashboard](./screenshots/top_performer_department.png)
+*performance charts*
 
 ### 🔖 **Bookmarks Page**
 ![Bookmarks Page](./screenshots/bookmarks.png)
 *Saved employees with bulk action capabilities*
 
 ### 🔍 **Search & Filter**
-![Search and Filter](./screenshots/searching filter.png)
+![Search and Filter](./screenshots/searching_filter.png)
 *Advanced search and filtering interface with active filters*
 
-### 📱 **Mobile Responsive**
-![Mobile View](./screenshots/user profile 2.png)
-*Responsive design working seamlessly on mobile devices*
 
-### 🌙 **Dark Mode**
-![Dark Mode](./screenshots/user profile feedback.png)
-*Dark theme with cyber-inspired lime green accents*
-
-### 📈 **Department Performance**
-![Department Performance](./screenshots/top performer by department.png)
-*Department performance visualization with progress bars*
-
-### ⭐ **Rating Distribution**
-![Rating Distribution](./screenshots/top performer leaderboard.png)
-*Employee rating distribution charts and analytics*
-
-### 🎯 **Interactive Elements**
-![Interactive Elements](./screenshots/create user.png)
-*Hover effects, animations, and micro-interactions showcase*
-
----
-
-> **Note**: To add screenshots to this README:
-> 1. Create a `screenshots` folder in your project root
-> 2. Take screenshots of each feature
-> 3. Save them with the filenames shown above
-> 4. The images will automatically display in the README
-
----
 
 ## 🛠️ Tech Stack
 
