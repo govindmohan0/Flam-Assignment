@@ -43,9 +43,9 @@ A modern, responsive HR dashboard built with Next.js, React, and Tailwind CSS. F
 ### 👤 **Employee Profile**
 ![Employee Profile](./screenshots/user_profile.png)
 *Detailed employee profile with tabs for overview, projects, and feedback*
-![Employee Profile](./screenshots/user_profile.png)
-*Detailed employee profile with tabs for projects*
 ![Employee Profile](./screenshots/user_profile_2.png)
+*Detailed employee profile with tabs for projects*
+
 ![Employee Profile](./screenshots/user_profile_feedback.png)
 *Detailed employee profile with tabs for feedback*
 
